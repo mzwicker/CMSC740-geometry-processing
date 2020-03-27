@@ -2,9 +2,10 @@
 
 Learning check assignments for CMSC740. The assignments are in Jupyter Lab notebooks, and we are using Docker to setup the environment. To get started:
 
-- Install Docker, 
-- Clone this repository
-- Run from the command line 
+- Install Docker, https://docs.docker.com/install/
+- Clone this repository into a local directory
+- Go to your local clone of this repository, and in the file `jupyterlab-cmsc740-run.bat`, replace `c:/Docker/CMSC740-geometry-processing` with the directory where the file is stored locally
+- Run `jupyterlab-cmsc740-run.bat` from the command line 
 - Follow the instructions in the command line interface to open Jupyter Lab
 
-The assignments for each learning check are in their own folder.
+You find the assignments for each learning check in their own folder on the left pane in Jupyter Lab.
