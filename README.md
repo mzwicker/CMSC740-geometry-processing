@@ -20,7 +20,13 @@ You can install Docker locally.
 
 *This is the default fallback if you can't / prefer not to install Docker locally.*
 
-If you use VirtualBox or VMware, you can import a VM image prepared by us. It runs Ubuntu and has all required software installed. The repository has also been cloned in home.
+If you use VirtualBox or VMware, you can import a VM image prepared by us. It runs Ubuntu and has all required software installed, and docker image pulled. The repository has also been cloned in home.
+
+To import to VirtualBox: File | Import Appliance. After importing, modify settings: open Settings, and select Display. Make sure that Video Memory is 128MB and Graphics Controller is `VBoxSVGA`. **Do not use VMSVGA. Do not enable 3D acceleration**
+
+To import to VMware: File | Open. When an error occurs, click "Retry".
+
+The appliance is about 7GB, and the imported VM is about 15GB.
 
 1. Download it from [Google Drive](https://drive.google.com/drive/folders/1dAcHpDSO-98rq-VHXz7sfJqcfbrBLkM3?usp=sharing), and import it.
 1. The user is `cmsc740` and password is `123456`.
