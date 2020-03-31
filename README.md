@@ -44,7 +44,7 @@ On the (physical or virtual) machine where you installed Docker, do the followin
    On Linux and macOS, run `run.sh` (in a terminal).
 
    A huge Docker image is downloaded during the first run (about 5GB).
-1. If Jupyter Lab starts successfully, visit [http://localhost:8888](http://localhost:8888) in a browser. 
+1. If Jupyter Lab starts successfully, visit [http://localhost:8888](http://localhost:8888) in a browser. The access token is `123456`.
 1. (Optional) If you're running it inside a VM, it can be clumsy working with the browser inside the VM. You may want to setup Port Forwarding ([VirtualBox](https://www.virtualbox.org/manual/ch06.html#natforward), [VMware](https://docs.vmware.com/en/VMware-Workstation-Pro/15.0/com.vmware.ws.using.doc/GUID-E146C894-664C-479A-9E19-484400614BED.html)).
 1. (Optional)  **Normally, you don't need this. But if you encounter file permission problems**, try granting write permissions.
     - Windows: go to folder properties, then select the "Security" tab, and allow the "Users" group "Full control".
