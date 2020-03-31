@@ -31,7 +31,7 @@ On the (physical or virtual) machine where you installed Docker, do the followin
 5. Complete the learning check for a course session in the corresponding folder you see in Jupyter Lab. Submit your Jupyter Lab Notebook file to ELMS/Canvas.
 
 Notes (optional):
-1. If you're running it inside a VM, it can be clumsy working with the browser inside the VM. You may want to setup Port Forwarding ([VirtualBox](https://www.virtualbox.org/manual/ch06.html#natforward), [VMware](https://docs.vmware.com/en/VMware-Workstation-Pro/15.0/com.vmware.ws.using.doc/GUID-E146C894-664C-479A-9E19-484400614BED.html)).
+1. If you're running Docker inside a VM, it can be clumsy working with the browser inside the VM. You may want to setup Port Forwarding ([VirtualBox](https://www.virtualbox.org/manual/ch06.html#natforward), [VMware](https://docs.vmware.com/en/VMware-Workstation-Pro/15.0/com.vmware.ws.using.doc/GUID-E146C894-664C-479A-9E19-484400614BED.html)).
 2. (Optional)  **Normally, you don't need this. But if you encounter file permission problems**, try granting write permissions.
     - Windows: go to folder properties, then select the "Security" tab, and allow the "Users" group "Full control".
 
