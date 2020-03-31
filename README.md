@@ -6,7 +6,7 @@ Learning check assignments for CMSC740. The assignments are in Jupyter Lab noteb
 
 > [What is Docker?](https://docs.docker.com/engine/docker-overview/)
 
-Skip this session if you already have a Docker host.
+Skip this section if you already have a Docker host.
 
 1. Instructions and requirements: [https://docs.docker.com/install/](https://docs.docker.com/install/)
 2. Hint: you don't need a Docker Hub account. Everything still works.
